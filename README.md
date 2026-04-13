@@ -23,7 +23,7 @@ Include your API key in the request header:
 
 Authorization: Bearer YOUR_API_KEY
 
-> Contact us to get your API key.
+> Get started in minutes with free SMS credits. No credit card required.
 
 ---
 
@@ -195,7 +195,7 @@ Import the collection to get started instantly:
 ## 🚀 Get Access
 
 👉 https://flow.gurrom.co.za  
-👉 contact@gurrom.co.za  
+👉 support@gurrom.co.za  
 
 ---
 

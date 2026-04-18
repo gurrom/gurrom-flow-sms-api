@@ -135,11 +135,70 @@ print(response.json())
 
 ---
 
-## 📬 Postman Collection
+## 📦 Postman Collection
 
 Import the collection to get started instantly:
 
-👉 ./postman_collection.json
+```json
+{
+  "info": {
+    "name": "Gurrom Flow SMS API",
+    "_postman_id": "a1f5c1b4-1234-4b1a-9c1a-abcdef123456",
+    "description": "Send SMS using Gurrom Flow API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Send SMS",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{apiKey}}",
+            "type": "text"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json",
+            "type": "text"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"AccountID\": \"{{accountId}}\",\n  \"To\": \"27828703205\",\n  \"MessageText\": \"Test from Gurrom Flow\"\n}"
+        },
+        "url": {
+          "raw": "https://api.flow.gurrom.co.za/api/messageapi/sendmessage",
+          "protocol": "https",
+          "host": [
+            "api",
+            "flow",
+            "gurrom",
+            "co",
+            "za"
+          ],
+          "path": [
+            "api",
+            "messageapi",
+            "sendmessage"
+          ]
+        }
+      },
+      "response": []
+    }
+  ],
+  "variable": [
+    {
+      "key": "apiKey",
+      "value": "YOUR_API_KEY"
+    },
+    {
+      "key": "accountId",
+      "value": "YOUR_ACCOUNT_ID"
+    }
+  ]
+}
 
 ---
 

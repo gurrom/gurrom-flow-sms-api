@@ -140,7 +140,7 @@ print(response.json())
 
 ## 📦 Postman Collection
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://www.postman.com/universal-eclipse-579716/gurrom-flow-api/overview)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://www.postman.com/universal-eclipse-579716/gurrom-flow-api/request/m6lpy4o/gurrom-flow-sms-api?action=share&creator=3695087)
 
 OR
 

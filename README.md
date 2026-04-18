@@ -139,7 +139,7 @@ print(response.json())
 
 Import the collection to get started instantly:
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://github.com/gurrom/gurrom-flow-api/blob/main/gurrom_flow_api_postman_collection.json)
+👉 [Download Postman Collection](https://github.com/gurrom/gurrom-flow-api/blob/main/gurrom_flow_api_postman_collection.json)
 
 Import into Postman:
 1. Open Postman

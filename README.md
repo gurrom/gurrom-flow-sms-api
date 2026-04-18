@@ -254,7 +254,7 @@ Import the collection to get started instantly:
 
 ## 🚀 Get Access
 
-👉 https://flow.gurrom.co.za  
+👉 https://flow-gurrom.figma.site/  
 👉 support@gurrom.co.za  
 
 ---

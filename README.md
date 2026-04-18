@@ -140,6 +140,10 @@ print(response.json())
 
 ## 📦 Postman Collection
 
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://www.postman.com/universal-eclipse-579716/workspace/gurrom-flow-api/collection/3695087-db0c5b4f-a024-46b2-9799-b762be5ac8da?action=share&creator=3695087)
+
+OR
+
 Import the collection to get started instantly:
 
 👉 [Download Postman Collection](https://github.com/gurrom/gurrom-flow-api/blob/main/gurrom_flow_api_postman_collection.json)
